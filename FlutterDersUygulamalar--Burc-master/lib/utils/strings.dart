@@ -2,9 +2,9 @@ class Strings {
   static const String APP_NAME = "Yemek Çeşitleri";
 
   static const List<String> YEMEK_ADLARI = [
-    "Ezogelin Çorbası",
-    "İşkembe Çorbası",
-    "Arnavut Ciğeri",
+    "Mercimek",
+    "İskembe",
+    "ciger",
     "Beyti Kebap",
     "Patates Oturtma",
     "Ankara Tava",

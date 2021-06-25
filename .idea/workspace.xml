@@ -10,81 +10,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1342db0-b489-46a7-a2c7-dc3e23e92a4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FlutterDersUygulamalar--Burc-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/5.1.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/java/com/droidim/burcum/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/burc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/utils/strings.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek_detay.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek_listesi.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/pubspec.yaml" afterDir="false" />
+    <list default="true" id="f1342db0-b489-46a7-a2c7-dc3e23e92a4a" name="Default Changelist" comment="tolga">
+      <changelist_data name="Tuğba Coşgun" email="tolgacosgun1818@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/--global" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/images/ciger3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/images/ciger_buyuk3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/images/iskembe2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/images/mercimek1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/images/mercimek_buyuk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/utils/strings.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/utils/strings.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek_listesi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/lib/yemek_listesi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/FlutterDersUygulamalar--Burc-master/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +34,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tuğba Coşgun &lt;tolgacosgun1818@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rrWeCf4O1cmrzYto6IcQePbok6" />
@@ -109,6 +56,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tugba.LAPTOP-RDKVMKAC\Desktop\TOLGAHANN\FlutterDersUygulamalar--Burc-master\FlutterDersUygulamalar--Burc-master\images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
@@ -139,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
@@ -152,29 +105,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="154" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1619735256133" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1619781467577">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1619790465248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619781467577" />
-    <state width="1323" height="110" key="GridCell.Tab.0.bottom" timestamp="1619781477091">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619790465248" />
+    <state width="1323" height="109" key="GridCell.Tab.0.bottom" timestamp="1624636454453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619781477091" />
-    <state width="1323" height="110" key="GridCell.Tab.0.center" timestamp="1619781477091">
+    <state width="1323" height="109" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624636454453" />
+    <state width="1323" height="109" key="GridCell.Tab.0.center" timestamp="1624636454453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619781477091" />
-    <state width="1323" height="110" key="GridCell.Tab.0.left" timestamp="1619781477091">
+    <state width="1323" height="109" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624636454453" />
+    <state width="1323" height="109" key="GridCell.Tab.0.left" timestamp="1624636454453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619781477091" />
-    <state width="1323" height="110" key="GridCell.Tab.0.right" timestamp="1619781477091">
+    <state width="1323" height="109" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624636454453" />
+    <state width="1323" height="109" key="GridCell.Tab.0.right" timestamp="1624636454453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619781477091" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1619735183698">
+    <state width="1323" height="109" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624636454453" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1620413576146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1619735183698" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620413576146" />
   </component>
 </project>
